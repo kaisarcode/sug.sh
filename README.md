@@ -8,9 +8,6 @@ It provides a lightweight, POSIX-compliant script for ranking and
 suggesting candidate tokens based on frequency and similarity for
 interactive Bash shells.
 
-This tool is designed as a composable shell primitive for candidate
-generation and interactive selection within the KaisarCode ecosystem.
-
 ## Usage
 
 Source the script in an interactive Bash session:
