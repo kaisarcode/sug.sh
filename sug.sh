@@ -1,5 +1,5 @@
 #!/bin/sh
-# sug.sh - Bash token autosuggestion integration layer
+# sug.sh - Shell token autosuggestion integration layer
 # Summary: Adds readline-aware token prediction to interactive bash.
 # Author:  KaisarCode
 # Website: https://kaisarcode.com

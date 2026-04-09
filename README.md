@@ -1,6 +1,6 @@
 # sug.sh
 
-`sug.sh` is a Bash token autosuggestion integration layer.
+`sug.sh` is a Shell token autosuggestion integration layer.
 
 ## Overview
 
